@@ -1,0 +1,14 @@
+.suggestion {
+  justify-content: center;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-radius: 3px;
+}
+
+.suggestion:hover {
+  cursor: pointer;
+  background-color: gray;
+  color: white;
+  font-weight: 500;
+}
